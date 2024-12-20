@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734692944 source:/home/alunos/Downloads/naruto/lista.cpp
+	"lista.h"
+
+1734692944 /home/alunos/Downloads/naruto/lista.h
+	<iostream>
+	<string>
+
